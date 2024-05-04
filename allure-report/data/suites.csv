@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sat May 04 17:54:41 IST 2024","Sat May 04 17:54:59 IST 2024","18865","","webdriveruniversity - contact us page","","","","valid submission - submit all information","Validate contact us page by submitting all data"
+"passed","Sat May 04 17:54:59 IST 2024","Sat May 04 17:55:00 IST 2024","945","","webdriveruniversity - contact us page","","","","""before each"" hook for webdriveruniversity - contact us page",""
+"passed","Sat May 04 17:54:58 IST 2024","Sat May 04 17:54:58 IST 2024","298","","webdriveruniversity - contact us page","","","","""before each"" hook for webdriveruniversity - contact us page",""
+"passed","Sat May 04 17:54:58 IST 2024","Sat May 04 17:55:01 IST 2024","3054","","webdriveruniversity - contact us page","","","","invalid submission - dont submit all information","Validate contact us page by not submitting all data"
+"passed","Sat May 04 17:54:47 IST 2024","Sat May 04 17:54:58 IST 2024","10442","","webdriveruniversity - contact us page","","","","valid submission - submit all information","Validate contact us page by submitting all data"
+"passed","Sat May 04 17:54:59 IST 2024","Sat May 04 17:55:04 IST 2024","4230","","webdriveruniversity - contact us page","","","","invalid submission - dont submit all information","Validate contact us page by not submitting all data"
